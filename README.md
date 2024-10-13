@@ -48,7 +48,7 @@ Test Case 3 = Validates that payment page does open.
 1. This framework consists of:
 ````
 Cucumber – 7.15.0
-Java 17
+Java 21
 JUnit – 4.13.2
 Allure Bom - 2.25.0
 AspectJ - 1.9.21
