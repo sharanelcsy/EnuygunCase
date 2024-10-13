@@ -75,3 +75,4 @@ cd target
 allure serve
 *MAKE SURE ALLURE IS INSTALLED ON THE SYSTEM*
 ````
+Created by Salih Buhari Baş, 10/'24
