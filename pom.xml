@@ -17,8 +17,8 @@
         <junit.version>4.13.2</junit.version>
         <maven.compiler.plugin.version>3.12.1</maven.compiler.plugin.version>
         <maven.surefire.plugin.version>3.2.3</maven.surefire.plugin.version>
-        <maven.compiler.source.version>17</maven.compiler.source.version>
-        <maven.compiler.target.version>17</maven.compiler.target.version>
+        <maven.compiler.source.version>21</maven.compiler.source.version>
+        <maven.compiler.target.version>21</maven.compiler.target.version>
         <allure.junit4.version>2.25.0</allure.junit4.version>
         <aspectj.version>1.9.21</aspectj.version>
         <allure.version>2.25.0</allure.version>
